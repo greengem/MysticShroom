@@ -14,10 +14,6 @@
 		{
 			"Name": "NiagaraFluids",
 			"Enabled": true
-		},
-		{
-			"Name": "Cargo",
-			"Enabled": true
 		}
 	]
 }

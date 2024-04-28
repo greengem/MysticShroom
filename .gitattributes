@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-Content/MetaHumans/Common/Face/Face_Archetype.uasset filter=lfs diff=lfs merge=lfs -text
-Content/MetaHumans/Wendy/Face/Wendy_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+# Content/MetaHumans/Common/Face/Face_Archetype.uasset filter=lfs diff=lfs merge=lfs -text
+# Content/MetaHumans/Wendy/Face/Wendy_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
